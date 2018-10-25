@@ -12,7 +12,7 @@ To run tests, execute the following command on a terminal:
 
 This project is not deployable. It's only executable through tests.
 
->***Note that one of the test cases takes an input of 100,000 parking spaces, thus the complete test suit takes a couple of seconds to complete.***
+>***Note that one of the test cases takes an input of 100,000 parking spaces, thus the complete test suite takes a couple of seconds to complete.***
 
 ## Algorithm Design & Analysis
 
